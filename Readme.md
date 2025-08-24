@@ -112,7 +112,7 @@ Project Link: [https://github.com/EddieCHuang/Reddit-Game-Code-Scraper-Web-Dashb
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/EddieCHuang
+[linkedin-url]: [https://linkedin.com/in/EddieCHuang](https://www.linkedin.com/in/eddie-huang27/)
 [Flask.py]: https://img.shields.io/badge/Flask-Framework-lightgrey?logo=flask
 [Flask-url]: https://flask.palletsprojects.com/en/stable/
 [Praw.py]: https://img.shields.io/badge/PRAW-Reddit_API_Wrapper-ff4500?logo=reddit&logoColor=white
