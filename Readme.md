@@ -59,6 +59,7 @@ A reddit game code scraper with a simple web dashboard.
 
 ### Built With
 
+* [![PYTHON][Python.py]][Python-url]
 * [![FLASK][Flask.py]][Flask-url]
 * [![PRAW][Praw.py]][Praw-url]
 * [![jsdelivr][Jsdelivr.html]][Jsdelivr-url]
@@ -90,10 +91,9 @@ To get a local copy up and running follow these simple example steps.
    ```
     reddit = praw.Reddit(enter your api key)
    ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin EddieCHuang/Reddit-Game-Code-Scraper-Web-Dashboard
-   git remote -v # confirm the changes
+5. To run the project
+   ```
+   Run the app.py file.
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -119,3 +119,6 @@ Project Link: [https://github.com/EddieCHuang/Reddit-Game-Code-Scraper-Web-Dashb
 [Praw-url]: https://praw.readthedocs.io/en/stable/
 [Jsdelivr.html]: https://img.shields.io/jsdelivr/npm/hm/axios
 [Jsdelivr-url]: https://www.jsdelivr.com/
+[Python.py]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Python-url]: https://www.python.org/
+
